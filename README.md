@@ -6,7 +6,9 @@ these contain the configuration Tc_Phoenix_
 ´´´bash
 
 git clone https://github.com/TcPhoenix2000/dotfiles.git --recursive
+
 cd ~/dotfiles
+
 ./install
 
 ´´´
