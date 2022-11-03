@@ -9,6 +9,8 @@
     ~/.gitconfig: configs/git/gitconfig
     ~/.zshrc: configs/zsh/zshrc
     ~/.p10k.zsh: configs/zsh/p10k.zsh
+    ~/.oh-my-zsh/custom/themes/powerlevel10k: configs/zsh_theme/powerlevel10k
+    ~/.oh-my-zsh/custom/.p10k.zsh: configs/zsh_theme/p10k.zsh
 
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
