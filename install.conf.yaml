@@ -8,7 +8,6 @@
     ~/.bashrc: configs/bash/bashrc
     ~/.gitconfig: configs/git/gitconfig
     ~/.zshrc: configs/zsh/zshrc
-    ~/.zsh_history: configs/zsh/history.zsh
     ~/.p10k.zsh: configs/zsh/p10k.zsh
 
 - shell:
