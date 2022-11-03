@@ -2,7 +2,7 @@
 
 these contain the configuration Tc_Phoenix_
 
-## preinstall
+## pre install
 Make sure to have zsh installed.
 ```bash
 sudo apt update && sudo apt install zsh -y
