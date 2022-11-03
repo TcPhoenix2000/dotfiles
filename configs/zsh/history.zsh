@@ -352,3 +352,41 @@ echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
 : 1667487953:0;ls -al
 : 1667488235:0;cp .p10k.zsh dotfiles/configs/zsh/p10k.zsh
 : 1667488315:0;cp .zsh_history dotfiles/configs/zsh/history.zsh
+: 1667489221:0;cp dotfiles/configs/zsh/p10k.zsh .p10k.zsh
+: 1667489247:0;cd dotfiles
+: 1667489255:0;./install
+: 1667489308:0;git add .
+: 1667489463:0;git commit -m "adding zshrc , zsh_history , p10k files "
+: 1667489479:0;git push origin main
+: 1667489538:0;git pull origin main
+: 1667489557:0;git push origin main
+: 1667489871:0;cd dotfiles/configs
+: 1667489904:0;mv zsh zsh.bak
+: 1667489915:0;ls-al
+: 1667489918:0;ls -al
+: 1667489923:0;treeµ
+: 1667489925:0;tree
+: 1667489974:0;mkdir -p zsh
+: 1667490000:0;mv zsh.bak/zshrc zsh
+: 1667490009:0;mv zsh.bak/history.zsh zsh
+: 1667490019:0;mv zsh.bak/p10k.zsh zsh
+: 1667490038:0;rm zsh.bak
+: 1667490051:0;rm -f zsh.bak
+: 1667490076:0;mv zsh.bak /tmp
+: 1667490082:0;tree
+: 1667490088:0;./install
+: 1667490198:0;mv ~/.zshrc config/zsh/zshrc\
+mv ~/.zsh_history config/zsh/history.zsh\
+mv ~/.p10k.zsh config/zsh/p10k.zsh
+: 1667490249:0;mv ~/.p10k.zsh config/zsh/p10k.zsh
+: 1667490259:0;cd 
+: 1667490264:0;ls-al
+: 1667490266:0;ls -al
+: 1667490334:0;cd ../
+: 1667490354:0;mv .p10k.zsh dotfiles/configs/zsh/p10k.zsh
+: 1667490418:0;mv .zshrc dotfiles/config/zsh/zshrc\
+mv .zsh_history dotfiles/config/zsh/history.zsh
+: 1667490451:0;mv .zshrc dotfiles/config/zsh/zshrc
+: 1667490472:0;mv .zshrc dotfiles/configs/zsh/zshrc
+: 1667490491:0;mv .zsh_history dotfiles/configs/zsh/history.zsh
+: 1667491963:0;git add .
