@@ -390,3 +390,7 @@ mv .zsh_history dotfiles/config/zsh/history.zsh
 : 1667490472:0;mv .zshrc dotfiles/configs/zsh/zshrc
 : 1667490491:0;mv .zsh_history dotfiles/configs/zsh/history.zsh
 : 1667491963:0;git add .
+: 1667492026:0;git commit -m "had a typo in the install.conf.yaml"
+: 1667492048:0;git push origin main
+: 1667492160:0;nano README.md
+: 1667492187:0;git add .
