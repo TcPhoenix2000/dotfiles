@@ -17,7 +17,7 @@ git clone https://github.com/romkatv/powerlevel10k.git
 ```
 Also install neofetch.
 ```bash
-sudo apt install neofetch
+sudo apt install neofetch -y
 ```
 
 ## installation
