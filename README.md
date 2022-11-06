@@ -25,8 +25,6 @@ sudo apt install neofetch -y
 
 git clone https://github.com/TcPhoenix2000/dotfiles.git --recursive
 
-cd ~/dotfiles
-
-./install
+cd ~/dotfiles && ./install
 
 ```
