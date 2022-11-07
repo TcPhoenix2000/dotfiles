@@ -13,7 +13,7 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 ```
 Make sure to have powerlevel10 theme installed for zsh.
 ```bash
-git clone https://github.com/romkatv/powerlevel10k.git
+git clone git@github.com:romkatv/powerlevel10k.git
 ```
 Also install neofetch.
 ```bash
