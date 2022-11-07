@@ -1,6 +1,9 @@
 [submodule "dotbot"]
 	path = dotbot
 	url = https://github.com/anishathalye/dotbot
-[submodule "configs/zsh_theme/powerlevel10k"]
-	path = configs/zsh_theme/powerlevel10k
+[submodule "configs/zsh/powerlevel10k"]
+	path = configs/zsh/powerlevel10k
 	url = https://github.com/romkatv/powerlevel10k.git
+[submodule "configs/zsh/.oh-my-zsh"]
+	path = configs/zsh/.oh-my-zsh
+	url = https://github.com/ohmyzsh/ohmyzsh.git
