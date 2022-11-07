@@ -23,7 +23,7 @@ sudo apt install neofetch -y
 ## installation
 ```bash
 
-git clone https://github.com/TcPhoenix2000/dotfiles.git --recursive
+git clone git@github.com:TcPhoenix2000/dotfiles.git --recursive
 
 cd ~/dotfiles && ./install
 
