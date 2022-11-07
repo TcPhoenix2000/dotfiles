@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+echo "installing neofetch"
+sudo apt install neofetch -y
 
 set -e
 
