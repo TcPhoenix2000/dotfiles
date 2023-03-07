@@ -22,5 +22,7 @@ git clone https://github.com/TcPhoenix2000/dotfiles.git --recursive
 ```zsh
 cd ~/dotfiles && ./install
 ```
+# if needed make sure to adjust git config
+
 ## TODO List
 - Complete the todo list
